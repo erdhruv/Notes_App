@@ -89,3 +89,11 @@ search.addEventListener("input", function () {
         //console.log(cardTxt);
     })
 })
+
+/*
+Future implementations:
+1. Add Title
+2. Mark a note as important (RED border)
+3. Separate notes by username
+4. Sync and host to a web server, instead of local storage, save notes in a database
+*/
